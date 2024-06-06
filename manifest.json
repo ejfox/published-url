@@ -1,7 +1,6 @@
 {
 	"id": "published-url",
 	"name": "Published URL",
-	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Easily navigate to the published URL of a file",
 	"author": "Obsidian",
